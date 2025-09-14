@@ -1,0 +1,60 @@
+Title: Final Destination
+Genre: Horror
+Director Name: James Wong
+Studio: New Line Cinema
+Year: 2000
+
+Title: Inside Out
+Genre: Animation
+Director Name: Pete Docter
+Director Name: Ronnie del Carmen
+Studio: Disney Pixar
+Year: 2015
+
+Title: The Dark Knight
+Genre: Action
+Director Name: Christopher Nolan
+Studio: Warner Bros.
+Year: 2008
+
+Title: Parasite
+Genre: Drama
+Director Name: Bong Joon-ho
+Studio: CJ Entertainment
+Year: 2019
+
+Title: The Grand Budapest Hotel
+Genre: Comedy
+Director Name: Wes Anderson
+Studio: Fox Searchlight Pictures
+Year: 2014
+
+Title: Interstellar
+Genre: Science Fiction
+Director Name: Christopher Nolan
+Studio: Paramount Pictures
+Year: 2014
+
+Title: Spirited Away
+Genre: Animation
+Director Name: Hayao Miyazaki
+Studio: Studio Ghibli
+Year: 2001
+
+Title: Police Story
+Genre: Action
+Director Name: Jackie Chan
+Studio: Golden Harvest
+Year: 1985
+
+Title: Knives Out
+Genre: Comedy
+Director Name: Rian Johnson
+Studio: Lionsgate
+Year: 2019
+
+Title: La La Land
+Genre: Drama
+Director Name: Damien Chazelle
+Studio: Lionsgate
+Year: 2016
